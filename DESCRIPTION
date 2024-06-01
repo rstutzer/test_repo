@@ -1,0 +1,14 @@
+Package: convertR
+Title: Converter for Units
+Version: 0.0.0.9000
+Authors@R: 
+    person("Roman", "Stutzer", , "roman.stutzer@unilu.ch", role = c("aut", "cre"))
+Description: The main purpose of this package is to offer functionality that
+    the user can easily convert from one type of unit to another.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
