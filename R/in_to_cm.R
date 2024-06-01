@@ -8,6 +8,7 @@
 #' @return The length provided in inches converted to centimeters
 #' @export
 #'
+#'
 #' @examples
 #' in_to_cm(inches=1)
 in_to_cm <- function(inches) {
